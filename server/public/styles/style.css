@@ -1,0 +1,13 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.task {
+    background-color: #bbbbbb;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.completed {
+    background-color: greenyellow;
+}
